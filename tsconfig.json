@@ -18,7 +18,7 @@
     "rootDir": "./source/",
     "outDir": "./dist/",
 
-    "typeRoots": ["./node_modules/@altv"]
+    "typeRoots": ["./node_modules/@altv", "./node_modules/@types"]
   },
   "compileOnSave": true,
   "include": [
