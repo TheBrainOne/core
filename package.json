@@ -1,0 +1,10 @@
+{
+  "name": "gambit-core",
+  "version": "1.0.0-dev",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "author": "Gambit Team",
+  "license": "Unlicense"
+}
