@@ -1,0 +1,7 @@
+{
+    "verbose": false,
+    "ignore": [],
+    "watch": "./source/**",
+    "ext": "ts",
+    "exec": "npm run build && cd ../../ && altv-server.exe"
+}
