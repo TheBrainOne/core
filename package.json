@@ -5,8 +5,9 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "build": "tsc",
-    "dev": "nodemon"
+    "build": "npm run pre:build && tsc",
+    "dev": "nodemon",
+    "pre:build": "rimraf ./resources"
   },
   "author": "Gambit Team",
   "license": "Unlicense",
